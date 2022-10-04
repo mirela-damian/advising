@@ -6,7 +6,7 @@ Please sign up to meet with one of your advisors (Dr. Justin DeBenedetto and Dr.
 
 * For meeting with Dr. DeBenedetto click here.
 					
-* For meeting with Dr. Damian [click here](https://www.signupgenius.com/go/10c044caaac29a7fd0-fall3).
+* For meeting with Dr. Damian <a href="https://www.signupgenius.com/go/10c044caaac29a7fd0-fall3" target="_blank" rel="noreferrer noopener">click here</a>.
 					
 * Dr. Ebelechukwu Nwafor is on sabbatical this semester.
 
